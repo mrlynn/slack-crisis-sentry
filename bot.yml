@@ -1,0 +1,3 @@
+name: Crisis Sentry
+description: A simple node.js slack bot with integration to MongoDB and Jira
+avatar: avatar.png
